@@ -6,29 +6,18 @@ using namespace std;
 
 
 int rollDie();
-
 void printDie();
 void rollDnD();
 
-
 double choice;
 
-
-
 int main()
-{
-	
+{	
 	rollDie();
 
 system("pause");
 return 0;
 }
-
-
-
-
-
-
 
 
 int rollDie()
